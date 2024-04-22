@@ -52,7 +52,7 @@ pydeck==0.8.1b0
 Pygments==2.17.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
+#pywin32==306
 pyzmq==26.0.2
 referencing==0.34.0
 requests==2.31.0
